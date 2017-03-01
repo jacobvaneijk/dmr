@@ -1,0 +1,7 @@
+[package]
+name = "dmr"
+version = "0.1.0"
+authors = ["Jacob van Eijk <jacob.vaneijk@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
